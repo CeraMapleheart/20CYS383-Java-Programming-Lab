@@ -241,12 +241,12 @@ class AnalysisScreen extends JFrame {
 ### Demo
 #### Screenshots
 
-<center><img src = "./images/Index_page.png"></center>
-<center><img src = "./images/Select_File.png"></center>
-<center><img src = "./images/Analyze_File.png"></center>
-<center><img src = "./images/Analyzed_Results.png"></center>
-<center><img src = "./images/Output_Screen.png"></center>
-<center><img src = "./images/Visit_Website.png"></center>
+<center><img src = "./images/Index_page.PNG"></center>
+<center><img src = "./images/Select_File.PNG"></center>
+<center><img src = "./images/Analyze_File.PNG"></center>
+<center><img src = "./images/Analyzed_Results.PNG"></center>
+<center><img src = "./images/Output_Screen.PNG"></center>
+<center><img src = "./images/Visit_Website.PNG"></center>
 
 
 #### Video
