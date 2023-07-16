@@ -248,7 +248,3 @@ class AnalysisScreen extends JFrame {
 <center><img src = "./images/Output_Screen.PNG"></center>
 <center><img src = "./images/Visit_Website.PNG"></center>
 
-
-#### Video
-
-<img src = "./video/video.gif">
